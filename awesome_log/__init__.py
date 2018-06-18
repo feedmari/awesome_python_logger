@@ -1,1 +1,1 @@
-fron awesome_log import *
+from awesome_log import *
