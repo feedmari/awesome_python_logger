@@ -1,4 +1,4 @@
-Awesome Pytjon Logger. 
+Awesome Python Logger. 
  
 ```
 from awesome_log import log
